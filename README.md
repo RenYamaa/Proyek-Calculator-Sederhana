@@ -36,8 +36,11 @@ Simple! just download it using zip file included in github repositories or you c
 
 ## 📝 Personal Notes
 At first, I tried to learn both frontend and backend at the same time.
+
 But I eventually realized it wasn’t the most effective way for me to learn — it was honestly a bit overwhelming 😅
+
 So I decided to focus more on backend development, since that’s where my real interest lies.
+
 At least I’ve learned something valuable: recognizing my limits and what I truly enjoy is also part of growing. 🚀
 
 <hr>
